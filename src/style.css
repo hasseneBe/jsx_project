@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+  
+  .title {
+      width: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;   
+    box-shadow: 10px 5px 5px rgb(153, 153, 153);
+    border: 1px solid gray;
+  }
+
+  .red {
+    color: red;
+    font-size: 38pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+  }
